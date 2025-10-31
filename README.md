@@ -9,21 +9,8 @@
 
 <!-- HERO MOTION (smaller GIF) -->
 <p align="center">
-  <img src="https://gifdb.com/images/high/throwing-computer-498-x-372-gif-3l9y3dmxsty367rs.gif" 
+  <img src="gif.gif" 
        alt="cyber animation" width="720" style="border-radius:16px;" />
-</p>
-
-<!-- SOCIAL (pill style to match stack) -->
-<p align="center">
-  <a href="https://thebillyorr.com" title="Portfolio" target="_blank">
-    <img alt="Website" height="32"
-         src="https://img.shields.io/badge/Website-0f172a?style=flat&logo=googlechrome&logoColor=ffffff&labelColor=0f172a&color=0f172a" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/thebillyorr" title="LinkedIn" target="_blank">
-    <img alt="LinkedIn" height="32"
-         src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat&logo=linkedin&logoColor=0A66C2&labelColor=0f172a&color=0f172a" />
-  </a>
 </p>
 
 
