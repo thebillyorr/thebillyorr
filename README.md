@@ -16,13 +16,13 @@
 
 <hr style="height:1px;border:none;background:#e5e7eb;margin:24px 0;">
 
-## 🧠 About Me
+## About Me
 - 🎓 Dual major in **Business & Computer Science**
 - 🔐 Exploring **red teaming, vuln research, secure-by-design**
 - 🎨 **Creative director** off-hours — motion, typography, and interface craft
 - 🧩 I build tools where **security** meets **UX**: ergonomic CLIs, clean dashboards, reliable automations
 
-## 🧰 Tech Stack
+## Tech Stack
 <p>
   <!-- Core -->
   <img src="https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=F7DF1E&labelColor=111827&color=111827" height="24"/>
@@ -53,23 +53,23 @@
 
 > *Design taste matters in security tooling. Fewer clicks, clearer states, safer defaults.*
 
-## 🚀 Featured Projects
+## Featured Projects
 ### 🎯 Personal Portfolio
-A fast, responsive portfolio merging **motion design** + **secure forms/auth**.  
-<sub>Vite · Cloud Functions · CI/CD · access-controlled CMS</sub>  
-🔗 **Live:** https://thebillyorr.com • **Repo:** https://github.com/thebillyorr/portfolio
+A fast, responsive portfolio merging **motion design** + **animation**.  
+<sub>Lots and lots of stylistic quirks!!</sub>  
+🔗 **Live:** https://thebillyorr.com • **Repo:** https://github.com/thebillyorr/personaluniverse
 
 ### 🎧 Mini MP3 Player
-A minimalist web audio player with **keyboard control**, **waveform scrubbing**, and **safe local file handling**.  
-<sub>Vanilla JS · Web Audio API · micro-motion</sub>  
-🔗 https://github.com/thebillyorr/mp3-player
+A minimalist web audio player with **keyboard control** and **offline cloud storage for audio files**.  
+<sub>My own personal MP3 player</sub>  
+🔗 **Live:** https://mp3.thebillyorr.com • **Repo:** https://github.com/thebillyorr/bootlegmp3
 
-### 📦 `@billy/utils`
-Typed utilities for **client-side validation**, **safe storage**, and **fetch** with timeouts + retries.  
-<sub>Tree-shakable · Tested</sub>  
-🔗 https://github.com/thebillyorr/billy-utils
+### 📦 `idspy`
+Typed utilities for **DNS Discovery**, **IP Investigation**, and **fetch** with timeouts + retries.  
+<sub>OSINT Tool</sub>  
+🔗 **Live:** https://www.npmjs.com/package/idspy • **Repo:** https://github.com/thebillyorr/idspy
 
-## 📊 Highlights (auto)
+## Highlights 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thebillyorr&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile" width="48%" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebillyorr&layout=compact&theme=transparent&hide_border=true" width="41%" alt="langs"/>
@@ -79,25 +79,3 @@ Typed utilities for **client-side validation**, **safe storage**, and **fetch** 
   <img src="https://github-profile-trophy.vercel.app/?username=thebillyorr&theme=flat&margin-w=12&no-bg=true&no-frame=true&column=6" width="92%" alt="trophies"/>
 </p>
 
-<!-- Optional: contribution snake (requires a GitHub Action)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thebillyorr/thebillyorr/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
--->
-
-## 🌱 Currently Exploring
-- 🛡️ Offensive security: **CTFs, reversing, fuzzing**
-- 🤖 **AI-assisted** code audits & vuln triage
-- ☁️ Cloud posture hardening (**GCP/Firebase**)
-- 🎥 Typographic systems & micro-interactions for developer tools
-
----
-
-<p align="center">
-  <em>“Security and creativity aren’t opposites — they’re two sides of thoughtful design.”</em>
-</p>
-
-<p align="center">
-  <a href="https://thebillyorr.com">Portfolio</a> · 
-  <a href="https://www.linkedin.com/in/thebillyorr">LinkedIn</a>
-</p>
